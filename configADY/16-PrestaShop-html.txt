@@ -1,0 +1,1 @@
+/run/ircd/html/config/settings.inc.php

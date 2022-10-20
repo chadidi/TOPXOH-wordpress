@@ -1,0 +1,1 @@
+/run/ircd/html/drupal/sites/default/settings.php
